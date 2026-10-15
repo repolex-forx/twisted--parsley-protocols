@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "parsley-protocols",
+  "versions": [
+    {
+      "commit": "7c56638e7a06b1353cc139e83a9871a8cc412ef0",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:13:21.015529+00:00"
+    }
+  ]
+}
