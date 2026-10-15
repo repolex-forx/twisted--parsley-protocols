@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/parsley-protocols/commit/7c56638e7a06b1353cc139e83a9871a8cc412ef0",
       "git:hexsha": "7c56638e7a06b1353cc139e83a9871a8cc412ef0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
